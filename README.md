@@ -62,5 +62,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FenrirDrage&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img align="right" height="150" src="https://i.gifer.com/JTIA.giff"  />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FenrirDrage&theme=shadow_blue&hide_border=false)<br/>
+<img align="right" height="150" src="https://i.gifer.com/F7Ed.gif"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FenrirDrage&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="150" src="https://i.gifer.com/4hst.gif"  />
