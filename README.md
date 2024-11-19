@@ -55,3 +55,5 @@
   <a href="smoreiralves@gmail.com" target="_blank">
 
 ###
+
+![Snake animation](https://raw.githubusercontent.com/fenrirdrage/fenrirdrage/output/github-contribution-grid-snake-dark.svg)
