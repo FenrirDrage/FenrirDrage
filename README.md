@@ -55,3 +55,4 @@
   <a href="smoreiralves@gmail.com" target="_blank">
 
 ###
+<img src="https://raw.githubusercontent.com/fenrirdrage/fenrirdrage/output/snake.svg" alt="Snake animation" />
