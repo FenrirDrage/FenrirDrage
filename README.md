@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Sérgio Alves and I'm a soon to be Web Developer, from Portugal</h2>
 <img align="right" height="125" src="https://i.gifer.com/7bV6.gif"  />
-<h4 align="left">I am currently pursuing a undergraduate degree in Web Information Systems and Technologies in Escola Superior Design Media e Artes (ESMAD) in Vila do Conde, where I aim to expand my knowledge in web development to grow in this field. Over the past two years, I completed a higher technical course in DESIGN AND TECHNOLOGIES FOR MOBILE APPLICATIONS as well at ESMAD, which gave me a new perspective on creating web pages and mobile apps and motivated me to seek further knowledge. </h4>
+<h4 align="left">I’m currently pursuing a Bachelor's degree in Web Information Systems and Technologies at ESMAD (Escola Superior de Media Artes e Design) in Vila do Conde, where I’m focused on deepening my skills in web development and growing within this field.
+
+Previously, I completed a Higher Technical Course in Design and Technologies for Mobile Applications, also at ESMAD. That experience gave me a solid foundation in building both web pages and mobile applications, and it sparked my curiosity to keep learning and exploring new technologies.
+
+I’m passionate about creating useful and user-friendly digital experiences, and I’m always looking for opportunities to learn and collaborate on exciting projects. </h4>
 
 ###
 
