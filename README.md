@@ -6,7 +6,7 @@
 
 <img align="right" height="150" src="https://i.gifer.com/DVC.gif"  />
 
-###
+### Language Known
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
-###
+### Where to find me:
 
 <div align="left">
   <a href="https:/www.instagram.com/sergio_am_alves/" target="_blank">
